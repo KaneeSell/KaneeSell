@@ -1,9 +1,5 @@
-<div align="center">
-<table>
-<tbody>
-<td align="center">
-<img width="2000" height="0"><br><br>
-<h1><b>Kanee Sell</b></h1><br>
+
+<h1 align="center"><b>Kanee Sell</b></h1><br>
 
 <div align="center">
 24 Anos🎉
@@ -47,12 +43,10 @@ Carregando⏳
   <a href="https://www.instagram.com/daniielo_isaac/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:Kanee.Sell@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daniel-henrique-sell/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
- 
+    
 ![snake gif](https://github.com/1Seamy/1SeaMy/blob/output/github-contribution-grid-snake-dark.svg)
 
+ </div>
+ 
+
 <img width="2000" height="0">
-</td>
-</tbody>
-</table>
-</div>
