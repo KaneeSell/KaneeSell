@@ -1,6 +1,9 @@
 <div align="center">
-  <h1>Kanee Sell</h1>
-</div>
+<table>
+<tbody>
+<td align="center">
+<img width="2000" height="0"><br><br>
+<h1><b>Kanee Sell</b></h1><br>
 
 <div align="center">
 24 Anos🎉
@@ -18,11 +21,24 @@ Carregando⏳
 </div>
 
   <div align="center" style="display: inline_block"><br>
+    SKILLS:
  <!-- <img align="center" alt="Mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -->
  <!-- <img align="center" alt="Mateus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
  <!-- <img align="center" alt="Mateus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
   <img align="center" alt="Mateus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Mateus-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Mateus-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+  <hr>
+    ESTUDANDO:
+    <img align="center" alt="Mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Mateus-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+    <img align="center" alt="Mateus-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+    <img align="center" alt="Mateus-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+    <img align="center" alt="Mateus-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+    <img align="center" alt="Mateus-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+          
+    
 </div>
   
  <hr>
@@ -34,3 +50,9 @@ Carregando⏳
  </div>
  
 ![snake gif](https://github.com/1Seamy/1SeaMy/blob/output/github-contribution-grid-snake-dark.svg)
+
+<img width="2000" height="0">
+</td>
+</tbody>
+</table>
+</div>
