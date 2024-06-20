@@ -33,5 +33,5 @@ Carregando⏳
   <a href="https://www.linkedin.com/in/daniel-henrique-sell/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
  
-  ![snake gif](https://github.com/KaneeSell/KaneeSell/blob/output/github-contribution-grid-snake-dark.svg)
+  ![snake gif](https://github.com/KaneeSell/KaneeSell/blob/output/github-contribution-grid-snake.svg)
  
