@@ -2,7 +2,7 @@
 <h1 align="center"><b>Kanee Sell</b></h1><br>
 
 <div align="center">
-24 Anos🎉
+25 Anos🎉
 Estudando👾
 Dev em Desenvolvimento🎓
 Carregando⏳
