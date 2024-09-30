@@ -15,9 +15,10 @@ Carregando⏳
 <details open align="center"> 
   <summary><h2>Github Status</h2></summary>
   <a href="https://github.com/KaneeSell">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaneeSell&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaneeSell&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true&locale=pt-br&hide=contribs,prs"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaneeSell&layout=compact&langs_count=7&theme=ocean_dark&locale=pt-br"/>
 </details>
+<a href="https://github.com/KaneeSell">
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="500px" width="500px" align="right" alt="Computador iuriCode">
   
 <details open align="center"> 
@@ -42,12 +43,11 @@ Carregando⏳
   <a href="https://wa.me/+5547991166401" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </details>
 <div align="center">
-  
   <!-- snake gif - https://github.com/Platane/snk -->
-![snake gif](./svg/github-kanee-contribution-dark.svg)
-<details open> 
+<a href="https://github.com/KaneeSell">
+<img align="center" alt="Snake SVG" height="20%" width="100%" title="JavaScript" src="/svg/github-kanee-contribution-dark.svg">
+<details open>
   <summary><h2>📘 Meus Projetos em Andamento</h2></summary>
-
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="center">
