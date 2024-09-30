@@ -1,7 +1,8 @@
-
-<h1 align="center"><b>Kanee Sell</b></h1><br>
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=24&text=Kanee%20Sell&textBg=false&fontColor=000000&animation=twinkling&fontAlign=50&fontSize=70&stroke=ffffff&reversal=false&section=header"/>
 <div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Anton&size=50&duration=4000&pause=500&color=4A007E&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Me+chamo+Kanee+Sell.;nome%3A+Daniel+Henrique+Sell.;Tenho+25+anos.;Moro+no+Brasil.;Sou+entusiasta+na+programa%C3%A7%C3%A3o!)](https://git.io/typing-svg)
+
 25 Anos🎉
 Estudando👾
 Dev em Desenvolvimento🎓
@@ -26,21 +27,13 @@ Carregando⏳
   <hr>
     ESTUDANDO:
     <img align="center" alt="JS" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-          
-    
 </div>
-  
  <hr>
-  
   <div align="center"> 
   <a href="https://www.instagram.com/daniielo_isaac/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:Kanee.Sell@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daniel-henrique-sell/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-
 ![snake gif](./svg/github-kanee-contribution-dark.svg)
-
  </div>
- 
-
-<img width="2000" height="0">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=24&textBg=false&fontColor=000000&animation=twinkling&fontAlign=50&fontSize=70&stroke=ffffff&reversal=true&section=footer"/>
