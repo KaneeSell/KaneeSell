@@ -1,6 +1,7 @@
 <!-- Capsule Render - https://capsule-render.vercel.app -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=24&text=Kanee%20Sell&textBg=false&fontColor=000000&animation=twinkling&fontAlign=50&fontSize=70&stroke=ffffff&reversal=false&section=header"/>
 <div align="center">
+  
 <!-- Typing SVG - https://readme-typing-svg.herokuapp.com -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=40&duration=4000&pause=300&color=4A007E&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Me+chamo+Kanee+Sell.;nome%3A+Daniel+Henrique+Sell.;Tenho+25+anos.;Moro+no+Brasil.;Entusiasta+na+programa%C3%A7%C3%A3o!)](https://git.io/typing-svg)
 
