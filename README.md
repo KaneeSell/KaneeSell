@@ -5,10 +5,21 @@
 <!-- Typing SVG - https://readme-typing-svg.herokuapp.com -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=40&duration=4000&pause=300&color=4A007E&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Me+chamo+Kanee+Sell.;nome%3A+Daniel+Henrique+Sell.;Tenho+25+anos.;Moro+no+Brasil.;Entusiasta+na+programa%C3%A7%C3%A3o!)](https://git.io/typing-svg)
 
-25 Anos🎉
+Web Developer 👽
 Estudando👾
 Dev em Desenvolvimento🎓
 Carregando⏳
+
+<details open align="center"> 
+<summary><h2>Code Space</h2></summary>
+  <img align="center" alt="Git" height="30" width="40" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+  <img align="center" alt="GitHub" height="30" width="40" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
+  <img align="center" alt="Gulp" height="30" width="40" title="Gulp" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg">
+  <img align="center" alt="Electron" height="30" width="40" title="Electron" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg">
+  <img align="center" alt="NodeJS" height="30" width="40" title="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="NPM" height="30" width="40" title="NPM" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg">
+  <img align="center" alt="VS Code" height="30" width="40" title="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg">
+</details>
 
 <!--WakaTime - https://wakatime.com/ -->
 [![wakatime](https://wakatime.com/badge/user/4ea7835c-7df2-49ad-98bf-229352b59c8c.svg)](https://wakatime.com/@4ea7835c-7df2-49ad-98bf-229352b59c8c)
@@ -31,10 +42,14 @@ Carregando⏳
   <img align="center" alt="SQL" height="30" width="40" title="SQL-Banco de Dados" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
   <img align="center" alt="PS-Photoshop" height="30" width="40" title="PS-Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
   <img align="center" alt="JS" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Bootstrap" height="30" width="40" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
 </details>
 <details open align="center"> 
 <summary><h2>ESTUDANDO</h2></summary>
-  <img align="center" alt="JS" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="SASS" height="30" width="40" title="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg">
+  <img align="center" alt="React" height="30" width="40" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+  <img align="center" alt="WebPack" height="30" width="40" title="WebPack" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg">
 </details>
 <details open align="center"> 
   <summary><h2>CONTATO</h2></summary>
@@ -46,7 +61,7 @@ Carregando⏳
   <a href="https://wa.me/+5547991166401" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </details>
 <div align="center">
-  <!-- snake gif - https://github.com/Platane/snk -->
+  <!-- snake gif - https://github.com/Platane/snk - https://platane.me/snk/ -->
 <a href="https://github.com/KaneeSell">
 <img align="center" alt="Snake SVG" height="20%" width="100%" title="JavaScript" src="/svg/github-kanee-contribution-dark.svg">
 <details open>
@@ -57,7 +72,7 @@ Carregando⏳
     <a href="https://github.com/KaneeSell/Funcionalidades"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KaneeSell&repo=Funcionalidades&theme=react&bg_color=1F222E&title_color=8957B2&hide_border=true&icon_color=8957B2&show_icons=true" alt="Funcionalidades"></a>
     <a href="https://github.com/KaneeSell/Aprendizado"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KaneeSell&repo=Aprendizado&theme=react&bg_color=1F222E&title_color=8957B2&hide_border=true&icon_color=8957B2&show_icons=true" alt="Aprendizado"></a>
     <a href="https://github.com/KaneeSell/enterprise"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=KaneeSell&repo=enterprise&theme=react&bg_color=1F222E&title_color=8957B2&hide_border=true&icon_color=8957B2&show_icons=true" alt="enterprise"></a>
-    <a href="https://github.com/KaneeSell/ProjectRK"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KaneeSell&repo=ProjectRK&theme=react&bg_color=1F222E&title_color=8957B2&hide_border=true&icon_color=8957B2&show_icons=true" alt="ProjectRK"></a>
+    <a href="https://github.com/KaneeSell/AgendaProMaster"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KaneeSell&repo=AgendaProMaster&theme=react&bg_color=1F222E&title_color=8957B2&hide_border=true&icon_color=8957B2&show_icons=true" alt="AgendaProMaster"></a>
     <a href="https://github.com/KaneeSell/curso-js"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KaneeSell&repo=curso-js&theme=react&bg_color=1F222E&title_color=8957B2&hide_border=true&icon_color=8957B2&show_icons=true" alt="curso-js"></a>
   </p>
 
