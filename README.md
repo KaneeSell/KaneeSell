@@ -25,7 +25,7 @@ Carregando⏳
 [![wakatime](https://wakatime.com/badge/user/4ea7835c-7df2-49ad-98bf-229352b59c8c.svg)](https://wakatime.com/@4ea7835c-7df2-49ad-98bf-229352b59c8c)
 </div>
 
-<!-- github-readme-stats - https://github-readme-stats.vercel.app -->
+<!-- github-readme-stats - https://github-readme-stats.vercel.app --> 
 <details open align="center"> 
   <summary><h2>Github Status</h2></summary>
   <a href="https://github.com/KaneeSell">
