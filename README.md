@@ -3,7 +3,7 @@
 <div align="center">
   
 <!-- Typing SVG - https://readme-typing-svg.herokuapp.com -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=40&duration=4000&pause=300&color=4A007E&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Me+chamo+Kanee+Sell.;nome%3A+Daniel+Henrique+Sell.;Tenho+25+anos.;Moro+no+Brasil.;Entusiasta+na+programa%C3%A7%C3%A3o!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=28&duration=2000&pause=1000&color=4A007E&background=FFFFFF00&center=true&vCenter=true&width=500&lines=%F0%9F%9A%80+Apaixonado+por+tecnologia;%F0%9F%92%BB+Programa%C3%A7%C3%A3o+e+desenvolvimento;%F0%9F%94%97+JavaScript%2C+TypeScript%2C+HTML%2C+CSS;%F0%9F%9B%A0+Node.js%2C+Git%2C+Bootstrap%2C+SQL;%F0%9F%93%9A+Aprendendo+sempre;%F0%9F%8E%AF+Buscando+novos+desafios)](https://git.io/typing-svg)
 
 Web Developer 👽
 Estudando👾
