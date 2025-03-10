@@ -48,12 +48,15 @@ Carregando⏳
   <img align="center" alt="WebPack" height="30" width="40" title="WebPack" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg">
   <img align="center" alt="TypeScript" height="30" width="40" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg">
   <img align="center" alt="SASS" height="30" width="40" title="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg">
-  <img align="center" alt="Vitejs" height="30" width="40" title="Vitejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg">
+  <img align="center" alt="ViteJs" height="30" width="40" title="ViteJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg">
+  <img align="center" alt="React" height="30" width="40" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+  <img align="center" alt="NextJs" height="30" width="40" title="NextJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
 </details>
 <details open align="center"> 
 <summary><h2>ESTUDANDO</h2></summary>
-  <img align="center" alt="React" height="30" width="40" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
   <img align="center" alt="Vuejs" height="30" width="40" title="Vuejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="MongoDB" height="30" width="40" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Angular" height="30" width="40" title="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
 </details>
 <details open align="center"> 
   <summary><h2>CONTATO</h2></summary>
