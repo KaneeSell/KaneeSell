@@ -72,6 +72,7 @@ Carregando⏳
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="center">
+    <a href="https://github.com/KaneeSell/Projeto-Cadastro-de-Usuario"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KaneeSell&repo=Projeto-Cadastro-de-Usuario&theme=react&bg_color=1F222E&title_color=8957B2&hide_border=true&icon_color=8957B2&show_icons=true" alt="Projeto-Cadastro-de-Usuario"></a>
     <a href="https://github.com/KaneeSell/Funcionalidades"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KaneeSell&repo=Funcionalidades&theme=react&bg_color=1F222E&title_color=8957B2&hide_border=true&icon_color=8957B2&show_icons=true" alt="Funcionalidades"></a>
     <a href="https://github.com/KaneeSell/Aprendizado"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KaneeSell&repo=Aprendizado&theme=react&bg_color=1F222E&title_color=8957B2&hide_border=true&icon_color=8957B2&show_icons=true" alt="Aprendizado"></a>
     <a href="https://github.com/KaneeSell/enterprise"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=KaneeSell&repo=enterprise&theme=react&bg_color=1F222E&title_color=8957B2&hide_border=true&icon_color=8957B2&show_icons=true" alt="enterprise"></a>
