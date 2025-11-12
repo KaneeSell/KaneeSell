@@ -81,7 +81,6 @@ Carregando⏳
   <a href="https://github.com/KaneeSell?tab=repositories&sort=stargazers"><img alt="Todos Repositorios" title="Todos Repositorios" src="https://custom-icon-badges.demolab.com/badge/-Click%20Aqui%20Para%20Ver%20Meus%20Repositorios-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
-
 </div>
 <!-- Capsule Render - https://capsule-render.vercel.app -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=24&textBg=false&fontColor=000000&animation=twinkling&fontAlign=50&fontSize=70&stroke=ffffff&reversal=true&section=footer"/>
